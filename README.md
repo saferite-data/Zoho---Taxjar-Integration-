@@ -1,2 +1,2 @@
 # Zoho---Taxjar-Integration-
-Api conection between zoho and taxjar with python. 
+Api connection between zoho and taxjar with python. 
